@@ -2,6 +2,10 @@
 
 ![Client Intake Automation Workflow](images/workflow-diagram.png)
 
+## Outcome
+
+Reduce client intake processing time from 30 minutes to 5 minutes within 60 days while improving response consistency and onboarding efficiency.
+
 ## Overview
 
 This project demonstrates how a small business or nonprofit organization can automate the client intake process to reduce administrative work, improve response times, and create a more consistent onboarding experience.
