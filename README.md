@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Reduce client intake processing time from 30 minutes to 5 minutes within 60 days while improving response consistency and onboarding efficiency.
+Reduce client intake processing time from 30 minutes to 5 minutes while improving response consistency and onboarding efficiency.
 
 ## Overview
 
