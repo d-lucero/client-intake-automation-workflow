@@ -1,5 +1,3 @@
-# Client Intake Automation Workflow
-
 ![Client Intake Automation Workflow](images/workflow-diagram.png)
 
 ## Outcome
