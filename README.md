@@ -1,5 +1,7 @@
 # Client Intake Automation Workflow
 
+![Client Intake Automation Workflow](images/workflow-diagram.png)
+
 ## Overview
 
 This project demonstrates how a small business or nonprofit organization can automate the client intake process to reduce administrative work, improve response times, and create a more consistent onboarding experience.
